@@ -1,2 +1,2 @@
 # NFT-Rarity-Analytics
-This python script can fetch all the tokens according to their rarity ranks using nftgo.io API. You can use csv containing all the contract addresses as this python script can iterate through all of them, fetches tokens and save it to separate data frames and then to csv with the name of collection slug.
+Explore and analyze the rarity of Non-Fungible Tokens (NFTs) using Python. This repository includes a dynamic script leveraging APIs to extract and rank thousands of NFTs based on rarity metrics. The project supports seamless integration with CSV files, allowing users to easily import and analyze NFT data. Dive into the fascinating world of blockchain and digital assets with this NFT Rarity Analytics Engine.
