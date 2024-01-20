@@ -1,0 +1,37 @@
+Python Console = 
+
+
+Collection Address: 0x00dca92b7fbd0c01f3508756718807836ec82156, Collection Slug: gotcha-gatcha
+Fetching data for collection_slug 'gotcha-gatcha' (1000 tokens)
+Saved CSV file for collection_slug 'gotcha-gatcha' as gotcha-gatcha_tokens.csv
+Collection Address: 0x3110ef5f612208724ca51f5761a69081809f03b7, Collection Slug: impostors-genesis-aliens
+Fetching data for collection_slug 'impostors-genesis-aliens' (10420 tokens)
+Saved CSV file for collection_slug 'impostors-genesis-aliens' as impostors-genesis-aliens_tokens.csv
+DataFrame for collection_slug 'gotcha-gatcha':
+    blockchain           name  ... token_id    collection_slug
+0          ETH       Wiz #999  ...      999  gotcha-gatcha-nft
+1          ETH    Snally #998  ...      998  gotcha-gatcha-nft
+2          ETH    Snally #997  ...      997  gotcha-gatcha-nft
+3          ETH    Fellie #996  ...      996  gotcha-gatcha-nft
+4          ETH    Fellie #995  ...      995  gotcha-gatcha-nft
+..         ...            ...  ...      ...                ...
+995        ETH     Starla #11  ...       11  gotcha-gatcha-nft
+996        ETH         Wiz #9  ...        9  gotcha-gatcha-nft
+997        ETH  Forest Wiz #5  ...        5  gotcha-gatcha-nft
+998        ETH      Fellie #4  ...        4  gotcha-gatcha-nft
+999        ETH         Wiz #3  ...        3  gotcha-gatcha-nft
+[1000 rows x 5 columns]
+DataFrame for collection_slug 'impostors-genesis-aliens':
+      blockchain            name  ... token_id           collection_slug
+0            ETH   Impostor 5059  ...     5059  impostors-genesis-aliens
+1            ETH   Impostor 9518  ...     9518  impostors-genesis-aliens
+2            ETH   Impostor 7359  ...     7359  impostors-genesis-aliens
+3            ETH   Impostor 6546  ...     6546  impostors-genesis-aliens
+4            ETH   Impostor 3038  ...     3038  impostors-genesis-aliens
+          ...             ...  ...      ...                       ...
+10415        ETH   Impostor 9038  ...     9038  impostors-genesis-aliens
+10416        ETH    Impostor 583  ...      583  impostors-genesis-aliens
+10417        ETH  Impostor 10305  ...    10305  impostors-genesis-aliens
+10418        ETH    Impostor 193  ...      193  impostors-genesis-aliens
+10419        ETH   Impostor 8912  ...     8912  impostors-genesis-aliens
+[10420 rows x 5 columns]
